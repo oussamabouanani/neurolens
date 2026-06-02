@@ -1,4 +1,6 @@
-# NeuroLens
+<p align="center">
+  <img src="static/images/neurolens_logo_text_light.svg" alt="NeuroLens" width="320">
+</p>
 
 NeuroLens provides a reusable pipeline for describing and labeling individual neurons in vision backbones.
 
